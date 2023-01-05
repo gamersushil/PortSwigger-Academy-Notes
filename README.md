@@ -10,6 +10,17 @@ Welcome to my **PortSwigger-Academy-Notes** repository! This repository contains
 
 The purpose of this repository is to share notes and study materials for the **Burp Suite Certified Practitioner Exam (BSCP)**. This repository contains my notes and study materials for the **Burp Suite Certified Practitioner Exam (BSCP)**. These notes are meant to serve as a reference for myself and others who are preparing for the exam. I hope you find them helpful in your studies and best of luck on the exam!
 
+## Learning Paths
+
+There are three distinct learning paths, **Server-Side Topics, Client-Side Topics,** and **Advanced Topics.**
+
+### Server-Side Topics
+
+
+### Client-Side Topics
+
+
+### Advanced Topics
 
 
 
