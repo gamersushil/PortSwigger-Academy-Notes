@@ -14,8 +14,21 @@ The purpose of this repository is to share notes and study materials for the **B
 
 There are three distinct learning paths, **Server-Side Topics, Client-Side Topics,** and **Advanced Topics.**
 
-### Server-Side Topics
+### Server-Side Topics                                                                              
 
+
+|  Sr.no  | Vulnerabilites | Tools Used |
+| ----------- | ----------- |-----------|
+| 1.  |SQL Injection | Sqlmap  |
+| 2. | Authentication | Title |
+| 3. |Directory traversal | Title |
+| 4. |Command injection | Title |
+| 5. |Business Logic vulnerabilites | Text |
+| 6. |Information disclosure | Text |
+| 7. |Access control | Text |
+| 8. |File upload vulnerabilities | Text |
+| 9. |Server-side request forgery (SSRF) | Text |
+| 10. |XXE injection | Text |
 
 ### Client-Side Topics
 
