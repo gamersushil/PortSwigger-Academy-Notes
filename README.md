@@ -1,3 +1,7 @@
+<h3 align="left">
+  <img src="Static/web-security-academy-logo.svg" alt="web-security" width="300px"></a>
+</h3>
+
 # PortSwigger-Academy-Notes
 
 Welcome to my **PortSwigger-Academy-Notes** repository! This repository contains my notes and solutions to the challenges in the **[PortSwigger Academy](https://portswigger.net/web-security)**. These write-ups are meant to serve as a reference for myself and others who are interested in learning about **web security**. I hope you find them helpfull.
