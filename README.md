@@ -15,7 +15,7 @@ The purpose of this repository is to share notes and study materials for the **B
 There are three distinct learning paths, **Server-Side Topics, Client-Side Topics,** and **Advanced Topics.**
 
 ### Server-Side Topics                                                                              
-
+Learn to identify and exploit server-side vulnerabilities
 
 |  Sr.no  | Vulnerabilites | Tools Used |
 | ----------- | ----------- |-----------|
@@ -31,7 +31,7 @@ There are three distinct learning paths, **Server-Side Topics, Client-Side Topic
 | 10. |XXE injection | Text |
 
 ### Client-Side Topics
-
+Learn to identify and exploit client-side vulnerabilities 
 
 ### Advanced Topics
 
