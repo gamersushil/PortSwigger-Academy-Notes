@@ -46,6 +46,7 @@ There are three distinct learning paths, **Server-Side Topics, Client-Side Topic
 | 24 | Client-side prototype pollution | - | :heavy_multiplication_x: 0/5 | - |
 | 25 | Essential skills | - | :heavy_multiplication_x: 0/1 | - |
 
+.
 
 
 
