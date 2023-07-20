@@ -1,4 +1,4 @@
-#### APPRENTICE
+#### <mark>APPRENTICE</mark>
 
 ###### Lab: File Path Traversal, Simple Case
 
