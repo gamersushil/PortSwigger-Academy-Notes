@@ -20,7 +20,7 @@ There are three distinct learning paths, **Server-Side Topics, Client-Side Topic
 |    | **Server-side topics** ||||
 | 01 | SQL injection | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/15 | - |
 | 02 | Authentication | :heavy_check_mark: 0/3 | :heavy_check_mark: 0/9 | :heavy_check_mark: 0/2 | 
-| 03 | Directory traversal | :heavy_check_mark: 0/1 | :heavy_check_mark: 0/5 | - |
+| 03 | Directory traversal | :heavy_check_mark: 1/1 | :heavy_check_mark: 5/5 | - |
 | 04 | Command inection | :heavy_check_mark: 0/1 | :heavy_check_mark: 0/4 | - |
 | 05 | Business logic vulnerabilities | :heavy_check_mark: 0/4 | :heavy_check_mark: 0/7 | - |
 | 06 | Information disclosure | :heavy_check_mark: 0/4 | :heavy_check_mark: 0/1 | - |
