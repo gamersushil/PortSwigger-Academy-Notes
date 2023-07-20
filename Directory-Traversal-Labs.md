@@ -24,7 +24,7 @@
 
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "/etc/passwd".
 
-3. <URL>?filename=/etc/passwd
+3. `<URL>?filename=/etc/passwd`
    
    Congratulations, you solved the lab!
 
@@ -36,11 +36,11 @@
 
 **Solution:**
 
-- Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
+1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
 
-- Now, attempt to access the "/etc/passwd" file by modifying the parameter to "....//....//....//etc/passwd".
+2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "....//....//....//etc/passwd".
 
-- ?filename=....//....//....//etc/passwd
+3. `<URL>?filename=....//....//....//etc/passwd`
 
 
 
