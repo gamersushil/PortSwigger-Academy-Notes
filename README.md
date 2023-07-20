@@ -25,9 +25,9 @@ There are three distinct learning paths, **Server-Side Topics, Client-Side Topic
 | 05 | Business logic vulnerabilities | :heavy_check_mark: 0/4 | :heavy_check_mark: 0/7 | - |
 | 06 | Information disclosure | :heavy_check_mark: 0/4 | :heavy_check_mark: 0/1 | - |
 | 07 | Access control | :heavy_check_mark: 0/9 | :heavy_check_mark: 0/4 | - |
-| 08 | File upload vulnerabilities | :heavy_check_mark: 2/2 | :heavy_check_mark: 4/4 | :heavy_multiplication_x: 0/1 |
-| 09 | Server-side request forgery (SSRF) | :heavy_check_mark: 2/2 | :heavy_check_mark: 3/3 | :heavy_check_mark: 2/2 |
-| 10 | XXE injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 6/6 | :heavy_check_mark: 1/1|
+| 08 | File upload vulnerabilities | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/4 | :heavy_multiplication_x: 0/1 |
+| 09 | Server-side request forgery (SSRF) | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/3 | :heavy_check_mark: 0/2 |
+| 10 | XXE injection | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/6 | :heavy_check_mark: 0/1|
 |    | **Client-side topics** ||||
 | 11 | Cross-site scripting (XSS) | :heavy_check_mark: 9/9 | :heavy_multiplication_x: 13/15 | :heavy_multiplication_x: 0/6 |
 | 12 | Cross-site request forgery (CSRF) | :heavy_check_mark: 1/1 | :heavy_check_mark: 7/7 | - |
@@ -36,15 +36,16 @@ There are three distinct learning paths, **Server-Side Topics, Client-Side Topic
 | 15 | DOM-based vulnerabilities | - | :heavy_check_mark: 5/5 | :heavy_multiplication_x: 0/2 |
 | 16 | WebSockets | :heavy_check_mark: 1/1 | :heavy_check_mark: 2/2 | - |
 |    | **Advanced topics** ||||
-| 17 | Insecure deserialization | :heavy_check_mark: 1/1 | :heavy_multiplication_x: 5/6 | :heavy_multiplication_x: 0/3 |
-| 18 | Server-side template injection | - | :heavy_multiplication_x: 2/5 | :heavy_multiplication_x: 0/2 |
-| 19 | Web cache poisoning | - | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/4 |
-| 20 | HTTP Host header attacks | :heavy_check_mark: 2/2 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
-| 21 | HTTP request smuggling | - | :heavy_multiplication_x: 1/15 | :heavy_multiplication_x: 0/7 |
-| 22 | OAuth authentication | :heavy_check_mark: 1/1 | :heavy_multiplication_x: 1/4 | :heavy_multiplication_x: 0/1 |
-| 23 | JWT attacks | :heavy_check_mark: 2/2 | :heavy_multiplication_x: 2/4 | :heavy_multiplication_x: 0/2 |
-| 24 | Client-side prototype pollution | - | :heavy_multiplication_x: 0/5 | - |
-| 25 | Essential skills | - | :heavy_multiplication_x: 0/1 | - |
+| 17 | Insecure deserialization | :heavy_check_mark: 1/1 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/3 |
+| 18 | GraphQL API Vulnerabilities | :heavy_check_mark: 0/1 | :heavy_multiplication_x: 5/6 |
+| 19 | Server-side template injection | - | :heavy_multiplication_x: 2/5 | :heavy_multiplication_x: 0/2 |
+| 20 | Web cache poisoning | - | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/4 |
+| 21 | HTTP Host header attacks | :heavy_check_mark: 2/2 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
+| 22 | HTTP request smuggling | - | :heavy_multiplication_x: 1/15 | :heavy_multiplication_x: 0/7 |
+| 23 | OAuth authentication | :heavy_check_mark: 1/1 | :heavy_multiplication_x: 1/4 | :heavy_multiplication_x: 0/1 |
+| 24 | JWT attacks | :heavy_check_mark: 2/2 | :heavy_multiplication_x: 2/4 | :heavy_multiplication_x: 0/2 |
+| 25 | Client-side prototype pollution | - | :heavy_multiplication_x: 0/5 | - | 
+| 26 | Essential skills | - | :heavy_multiplication_x: 0/2 | - |
 
 .
 
