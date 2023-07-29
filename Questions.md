@@ -16,12 +16,12 @@
  - [Role-Based Access Control (RBAC) Vulnerabilities]
  - [Server-Side Request Forgery (SSRF)]
  - [Vulnerable and Outdated Components]
- - [Local File Inclusion (LFI)](https://github.com/devanshbatham/Vulnerabilities-Unmasked#local-file-inclusion-lfi)
- - [Denial of Service (DOS)](https://github.com/devanshbatham/Vulnerabilities-Unmasked#denial-of-service-dos)
- - [Authentication Bypass](https://github.com/devanshbatham/Vulnerabilities-Unmasked#authentication-bypass)
- - [Insecure Direct Object Reference (IDOR)](https://github.com/devanshbatham/Vulnerabilities-Unmasked#insecure-direct-object-reference-idor)
- - [2FA Bypass](https://github.com/devanshbatham/Vulnerabilities-Unmasked#2fa-bypass)
- - [Race Condition Vulnerability](https://github.com/devanshbatham/Vulnerabilities-Unmasked#race-condition-vulnerability)
+ - [Local File Inclusion (LFI)]
+ - [Denial of Service (DOS)]
+ - [Authentication Bypass]
+ - [Insecure Direct Object Reference (IDOR)]
+ - [2FA Bypass]
+ - [Race Condition Vulnerability]
 
 
  ## Cross-Site Scripting (XSS)
